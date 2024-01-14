@@ -1,2 +1,6 @@
-# Discord-MusicReactorBot
-A Discord bot project undertaken as a personal development challenge to enhance skills in Node.js, Express.js, and Discord.js. The bot automatically reacts to messages containing links from Spotify, YouTube, or Apple Music with thumbs-up and thumbs-down emojis to increase user engagement.
+---
+# Automated Music Reactor Bot
+
+## Overview
+A Discord bot designed as a personal development challenge to enhance my skills in Node.js, Express.js, and Discord.js. Developed on replit within approximately an hour and a half, this bot automatically reacts to messages containing Spotify, YouTube, or Apple Music links with thumbs-up and thumbs-down emojis.
+---
