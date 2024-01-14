@@ -1,4 +1,3 @@
----
 # Automated Music Reactor Bot
 
 ## Overview
